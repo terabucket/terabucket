@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,php,laravel,java,spring,cs,dotnet,py,,,,,,django,flask,ruby,rails,nodejs,mongodb,mysql,postgresql,ts,,,,js,react,nextjs,vue,vite,vuetify,nuxtjs,angular,redux,graphql,pinia,,bootstrap,tailwind,materialui,azure,aws,gcp,firebase,git,docker,figma,xd,postman,heroku&perline=13" />
+    <img src="https://skillicons.dev/icons?i=,,,php,laravel,java,go,cs,dotnet,py,,,,,,django,flask,ruby,rails,nodejs,mongodb,mysql,postgresql,ts,,,,js,react,nextjs,vue,vite,vuetify,nuxtjs,angular,redux,graphql,pinia,,bootstrap,tailwind,materialui,azure,aws,gcp,firebase,git,docker,figma,xd,postman,heroku&perline=13" />
   </a>
 </p>
 
